@@ -1,0 +1,12 @@
+## Steps Involved In Making
+- Header Component
+- Sidebar
+- hamburger Menu
+- Button List
+- Video Container   
+    - Video Card
+- Importing Video On watch Page 
+- Search Functionality
+- Creating Cache Slice
+- Nested Comments
+- Live Chats

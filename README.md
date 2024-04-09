@@ -9,7 +9,7 @@ This project is a YouTube clone built using React, Tailwind CSS,Redux Toolkit an
 ![Humburger Menu](./For%20Readme/Toggle.gif)
 
 ### Sidebar 
-- With Functionality to route back to page using Link of React Router Dom
+- With Functionality to route back to Home page using Link of React Router Dom
 
 ![Sidebar](./For%20Readme/Sidebar.png)
 

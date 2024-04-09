@@ -10,6 +10,7 @@
 
 ### Sidebar 
 - With Functionality to route back to page using Link of React Router Dom
+
 ![Sidebar](./For%20Readme/Screenshot%202024-04-09%20142701.png)
 
 ### SearchBar 
@@ -29,28 +30,3 @@
 
 2. Infinity Comment : used Recursion to create infinite comments funtionality just like reddiit
 ![Infinity Comment](./For%20Readme/Screenshot%202024-04-09%20160116.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Steps Involved In Making
-- Header Component
-- Sidebar
-- hamburger Menu
-- Button List
-- Video Container   
-    - Video Card
-- Importing Video On watch Page 
-- Search Functionality
-- Creating Cache Slice
-- Nested Comments
-- Live Chats

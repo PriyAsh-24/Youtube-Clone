@@ -6,6 +6,7 @@
 ### Header
 - Utilizes Redux store components to handle toggle on and off of Sidebar menu on click of hamburger menu
 ![Header](./For%20Readme/Screenshot%202024-04-09%20142450.png)
+![Humburger Menu](./For%20Readme/Toggle.gif)
 
 ### Sidebar 
 ![Sidebar](./For%20Readme/Screenshot%202024-04-09%20142701.png)

@@ -7,12 +7,10 @@
 - Utilizes Redux store components to handle toggle on and off of Sidebar menu on click of hamburger menu
 ![Header](./For%20Readme/Screenshot%202024-04-09%20142450.png)
 
-- Sidebar 
+### Sidebar 
 ![Sidebar](./For%20Readme/Screenshot%202024-04-09%20142701.png)
 
-<video width="320" height="240" controls>
-  <source src="./For%20Readme/HumburgerToggle.mp4" type="video/mp4">
-</video>
+![Sidebar](./For%20Readme/HumburgerToggle.mp4)
 
 ### SearchBar 
 - Added debouncing functionality to  search bar, so that it only makes a request for limited time also added those results to redux store so that it wont search again and again

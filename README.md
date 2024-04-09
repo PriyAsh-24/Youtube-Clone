@@ -10,10 +10,10 @@
 ### Sidebar 
 ![Sidebar](./For%20Readme/Screenshot%202024-04-09%20142701.png)
 
-![Sidebar](./For%20Readme/HumburgerToggle.mp4)
+![Sidebar](./For%20Readme/Search.gif)
 
 ### SearchBar 
-- Added debouncing functionality to  search bar, so that it only makes a request for limited time also added those results to redux store so that it wont search again and again
+- Added debouncing functionality to  search bar, so that it only makes a request for limited time also added those results to redux store so that it won't call the api again and again
 
 <video width="320" height="240" controls>
   <source src="./For%20Readme/Serach.mp4" type="video/mp4">

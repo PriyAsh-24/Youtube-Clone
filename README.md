@@ -11,7 +11,7 @@ This project is a YouTube clone built using React, Tailwind CSS,Redux Toolkit an
 ### Sidebar 
 - With Functionality to route back to page using Link of React Router Dom
 
-![Sidebar](./For%20Readme/Screenshot%202024-04-09%20142701.png)
+![Sidebar](./For%20Readme/Sidebar.png)
 
 ### SearchBar 
 - Added debouncing functionality to search bar, so that it only makes a request for limited time 
@@ -42,5 +42,7 @@ This project is a YouTube clone built using React, Tailwind CSS,Redux Toolkit an
 
 ![Live Chat](./For%20Readme/LiveChat.gif)
 
+
+#### Overall Watch Page
 
 ![OverallPage](./For%20Readme/Screenshot%202024-04-09%20172612.png)

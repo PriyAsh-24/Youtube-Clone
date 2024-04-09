@@ -1,5 +1,5 @@
 # YouTube Clone Web Project
-- This project is a YouTube clone built using React, Tailwind CSS,Redux Toolkit and React Router. It aims to replicate the core functionalities of YouTube, including browsing videos, playing them, and managing a user's viewing experience.
+This project is a YouTube clone built using React, Tailwind CSS,Redux Toolkit and React Router. It aims to replicate the core functionalities of YouTube, including browsing videos, playing them, and managing a user's viewing experience.
 
 ## Features
 
@@ -36,3 +36,11 @@
 - used Recursion to create infinite comments funtionality just like reddiit
 
 ![Infinity Comment](./For%20Readme/Screenshot%202024-04-09%20160116.png)
+
+#### Live Chat
+- using poling to get the live message from server(here using Dummy data)
+
+![Live Chat](./For%20Readme/LiveChat.gif)
+
+
+![OverallPage](./For%20Readme/Screenshot%202024-04-09%20172612.png)

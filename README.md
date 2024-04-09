@@ -9,20 +9,27 @@
 ![Humburger Menu](./For%20Readme/Toggle.gif)
 
 ### Sidebar 
+- With Functionality to route back to page using Link of React Router Dom
 ![Sidebar](./For%20Readme/Screenshot%202024-04-09%20142701.png)
 
-![Sidebar](./For%20Readme/Search.gif)
-
 ### SearchBar 
-- Added debouncing functionality to  search bar, so that it only makes a request for limited time also added those results to redux store so that it won't call the api again and again
-
-<video width="320" height="240" controls>
-  <source src="./For%20Readme/Serach.mp4" type="video/mp4">
-</video>
+- Added debouncing functionality to search bar, so that it only makes a request for limited time 
+- Added results to redux store so that it won't call the api again and again
+![Sidebar](./For%20Readme/Search.gif)
 
 ### Youtube Api 
 - used Youtube Api to get the most Popular Video
 ![MainContainer](./For%20Readme/Screenshot%202024-04-09%20143452.png)
+
+### Watch Page 
+- Used Routing to Route to Watch page which is having features like 
+
+1. Video Playback : Playing the video from Youtube embeded code where video id is taken from params using useSearchParams of React Router Dom
+![YTVideo](./For%20Readme/VideoYt.gif)
+
+2. Infinity Comment : used Recursion to create infinite comments funtionality just like reddiit
+![Infinity Comment](./For%20Readme/Screenshot%202024-04-09%20160116.png)
+
 
 
 

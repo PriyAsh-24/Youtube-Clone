@@ -20,13 +20,19 @@
 
 ### Youtube Api 
 - used Youtube Api to get the most Popular Video
+- Also created a Higher Order Funtion to Add the ad video card to aur yt video Container
+
 ![MainContainer](./For%20Readme/Screenshot%202024-04-09%20143452.png)
 
 ### Watch Page 
 - Used Routing to Route to Watch page which is having features like 
 
-1. Video Playback : Playing the video from Youtube embeded code where video id is taken from params using useSearchParams of React Router Dom
+#### Video Playback 
+- Playing the video from Youtube embeded code where video id is taken from params using useSearchParams of React Router Dom
+
 ![YTVideo](./For%20Readme/VideoYt.gif)
 
-2. Infinity Comment : used Recursion to create infinite comments funtionality just like reddiit
+#### Infinity Comment 
+- used Recursion to create infinite comments funtionality just like reddiit
+
 ![Infinity Comment](./For%20Readme/Screenshot%202024-04-09%20160116.png)
